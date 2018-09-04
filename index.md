@@ -1,37 +1,4 @@
-## Welcome to GitHub Pages
+## Política de Privacidade sobre o Aplicativo Controle de Posto
 
-You can use the [editor on GitHub](https://github.com/dritoferro/dritoferro.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Este aplicativo faz uso somente do recurso Camera para capturar uma imagem do veículo do usuário e/ou qualquer outra coisa que o mesmo deseje utilizar para representar o cadastro daquele objeto no aplicativo. A imagem também pode ser escolhida de sua galeria se assim desejar. Para questões de bom funcionamento, é feita uma cópia [LOCAL] no próprio dispositivo do usuário apenas para não ter problemas de perder a referência se por um engano a imagem escolhida for apagada da pasta original.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dritoferro/dritoferro.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
